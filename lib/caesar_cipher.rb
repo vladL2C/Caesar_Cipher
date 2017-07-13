@@ -9,5 +9,3 @@ def caesar_cipher (string, shift)
 	end
 	return caesar_string 
 end
- 
-caesar_cipher("z",1)
